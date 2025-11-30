@@ -1,0 +1,354 @@
+{
+  "slots": [
+    {
+      "id": "1",
+      "slotNumber": "E1",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "2",
+      "slotNumber": "D2",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "3",
+      "slotNumber": "C3",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "4",
+      "slotNumber": "B4",
+      "occupied": true,
+      "vehicleNumber": "TN70AB1234",
+      "entryTime": "2025-11-30T22:13:35.025Z"
+    },
+    {
+      "id": "5",
+      "slotNumber": "D5",
+      "occupied": true,
+      "vehicleNumber": "GJ52TS1322",
+      "entryTime": "2025-11-25T21:47:55.541Z"
+    },
+    {
+      "id": "6",
+      "slotNumber": "D6",
+      "occupied": true,
+      "vehicleNumber": "KA09ER5678",
+      "entryTime": "2025-11-30T22:27:33.688Z"
+    },
+    {
+      "id": "7",
+      "slotNumber": "C7",
+      "occupied": true,
+      "vehicleNumber": "GJ76HD5077",
+      "entryTime": "2025-11-24T21:47:55.541Z"
+    },
+    {
+      "id": "8",
+      "slotNumber": "D8",
+      "occupied": true,
+      "vehicleNumber": "GJ13SZ5225",
+      "entryTime": "2025-11-25T21:47:55.541Z"
+    },
+    {
+      "id": "9",
+      "slotNumber": "D9",
+      "occupied": true,
+      "vehicleNumber": "MH62TT9273",
+      "entryTime": "2025-11-28T21:47:55.541Z"
+    },
+    {
+      "id": "10",
+      "slotNumber": "A10",
+      "occupied": true,
+      "vehicleNumber": "TN75UJ9980",
+      "entryTime": "2025-11-25T21:47:55.541Z"
+    },
+    {
+      "id": "11",
+      "slotNumber": "B11",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "12",
+      "slotNumber": "D12",
+      "occupied": true,
+      "vehicleNumber": "GJ19GD1323",
+      "entryTime": "2025-11-27T21:47:55.541Z"
+    },
+    {
+      "id": "13",
+      "slotNumber": "E13",
+      "occupied": true,
+      "vehicleNumber": "KA96SI8830",
+      "entryTime": "2025-11-27T21:47:55.541Z"
+    },
+    {
+      "id": "14",
+      "slotNumber": "E14",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "15",
+      "slotNumber": "D15",
+      "occupied": true,
+      "vehicleNumber": "MH22TV6193",
+      "entryTime": "2025-11-30T21:47:55.541Z"
+    },
+    {
+      "id": "16",
+      "slotNumber": "C16",
+      "occupied": true,
+      "vehicleNumber": "GJ82NV4982",
+      "entryTime": "2025-11-27T21:47:55.541Z"
+    },
+    {
+      "id": "17",
+      "slotNumber": "D17",
+      "occupied": true,
+      "vehicleNumber": "TN34IV8287",
+      "entryTime": "2025-11-24T21:47:55.541Z"
+    },
+    {
+      "id": "18",
+      "slotNumber": "C18",
+      "occupied": true,
+      "vehicleNumber": "MH40RK5168",
+      "entryTime": "2025-11-28T21:47:55.541Z"
+    },
+    {
+      "id": "19",
+      "slotNumber": "A19",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "20",
+      "slotNumber": "A20",
+      "occupied": true,
+      "vehicleNumber": "GJ35WD4842",
+      "entryTime": "2025-11-24T21:47:55.541Z"
+    },
+    {
+      "id": "21",
+      "slotNumber": "B21",
+      "occupied": true,
+      "vehicleNumber": "MH28RI2750",
+      "entryTime": "2025-11-25T21:47:55.541Z"
+    },
+    {
+      "id": "22",
+      "slotNumber": "D22",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "23",
+      "slotNumber": "A23",
+      "occupied": true,
+      "vehicleNumber": "GJ83AU8714",
+      "entryTime": "2025-11-27T21:47:55.541Z"
+    },
+    {
+      "id": "24",
+      "slotNumber": "A24",
+      "occupied": true,
+      "vehicleNumber": "TN28TP2527",
+      "entryTime": "2025-11-28T21:47:55.541Z"
+    },
+    {
+      "id": "25",
+      "slotNumber": "B25",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "26",
+      "slotNumber": "B26",
+      "occupied": true,
+      "vehicleNumber": "KA21TN4853",
+      "entryTime": "2025-11-24T21:47:55.541Z"
+    },
+    {
+      "id": "27",
+      "slotNumber": "A27",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "28",
+      "slotNumber": "B28",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "29",
+      "slotNumber": "E29",
+      "occupied": true,
+      "vehicleNumber": "MH57MP6932",
+      "entryTime": "2025-11-28T21:47:55.541Z"
+    },
+    {
+      "id": "30",
+      "slotNumber": "D30",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "31",
+      "slotNumber": "E31",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "32",
+      "slotNumber": "C32",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "33",
+      "slotNumber": "E33",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "34",
+      "slotNumber": "C34",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "35",
+      "slotNumber": "A35",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "36",
+      "slotNumber": "C36",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "37",
+      "slotNumber": "D37",
+      "occupied": true,
+      "vehicleNumber": "TN28MM7348",
+      "entryTime": "2025-11-29T21:47:55.541Z"
+    },
+    {
+      "id": "38",
+      "slotNumber": "E38",
+      "occupied": true,
+      "vehicleNumber": "MH32EU9091",
+      "entryTime": "2025-11-29T21:47:55.541Z"
+    },
+    {
+      "id": "39",
+      "slotNumber": "A39",
+      "occupied": true,
+      "vehicleNumber": "GJ63NU4895",
+      "entryTime": "2025-11-28T21:47:55.541Z"
+    },
+    {
+      "id": "40",
+      "slotNumber": "A40",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "41",
+      "slotNumber": "A41",
+      "occupied": true,
+      "vehicleNumber": "DL21ZZ9225",
+      "entryTime": "2025-11-24T21:47:55.541Z"
+    },
+    {
+      "id": "42",
+      "slotNumber": "E42",
+      "occupied": true,
+      "vehicleNumber": "KA54OW9365",
+      "entryTime": "2025-11-25T21:47:55.541Z"
+    },
+    {
+      "id": "43",
+      "slotNumber": "E43",
+      "occupied": true,
+      "vehicleNumber": "KA39UP4298",
+      "entryTime": "2025-11-30T21:47:55.541Z"
+    },
+    {
+      "id": "44",
+      "slotNumber": "A44",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "45",
+      "slotNumber": "B45",
+      "occupied": true,
+      "vehicleNumber": "GJ98PN7189",
+      "entryTime": "2025-11-24T21:47:55.541Z"
+    },
+    {
+      "id": "46",
+      "slotNumber": "D46",
+      "occupied": true,
+      "vehicleNumber": "GJ46FF6867",
+      "entryTime": "2025-11-27T21:47:55.541Z"
+    },
+    {
+      "id": "47",
+      "slotNumber": "E47",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "48",
+      "slotNumber": "E48",
+      "occupied": true,
+      "vehicleNumber": "DL64OS8172",
+      "entryTime": "2025-11-25T21:47:55.541Z"
+    },
+    {
+      "id": "49",
+      "slotNumber": "C49",
+      "occupied": false,
+      "vehicleNumber": "",
+      "entryTime": ""
+    },
+    {
+      "id": "50",
+      "slotNumber": "A50",
+      "occupied": true,
+      "vehicleNumber": "DL77CX4363",
+      "entryTime": "2025-11-26T21:47:55.541Z"
+    }
+  ]
+}
