@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - main
 
 permissions:
   contents: write
@@ -16,16 +17,19 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Install Node
+      - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: 18
+
+      - name: Install Angular CLI
+        run: npm install -g @angular/cli
 
       - name: Install dependencies
         run: npm install
 
       - name: Build Angular app
-        run: npm run build -- --configuration=production --base-href="/SmartParking/"
+        run: ng build --configuration=production --base-href="/SmartParking/"
 
       - name: Deploy to GitHub Pages
         run: npx angular-cli-ghpages --dir=dist/SmartParking
