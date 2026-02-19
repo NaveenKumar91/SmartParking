@@ -32,4 +32,4 @@ jobs:
         run: ng build --configuration=production --base-href="/SmartParking/"
 
       - name: Deploy to GitHub Pages
-        run: npx angular-cli-ghpages --dir=dist/SmartParking
+        run: npx angular-cli-ghpages --dir=dist/SmartParking/browser
